@@ -1,3 +1,7 @@
-# Thogakade_Hibernate
 
-# Java Point of Sales application with Hibernate
+
+```
+Project Name -Thogakade_Hibernate
+Description - Point Of Sales System
+Tech Stack - Java,SwingX,Hibernate
+```
